@@ -12,16 +12,16 @@
 Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistemas escaláveis e seguros. Minha abordagem de desenvolvimento é guiada por boas práticas de engenharia, garantindo que o código não apenas funcione, mas seja sustentável e testável.
 
 - 🔭 Atualmente trabalhando em **projetos autônomos**.
-- 🌱 Aprofundando conhecimentos em **Software Quality e Arquitetura de Microserviços**.
-- 👯 Disponível para colaborar em **projetos open-source**.
-- 💬 Pergunte-me sobre **Java, Spring Framework, TDD, SQL e NoSQL**.
+- 🌱 Aprofundando conhecimentos em **Software Quality, Segurança e Performance**.
+- 👯 Colaborador em **projetos open-source**.
+- 💬 Pergunte-me sobre **Java, Spring Framework, Segurança e Performance**.
 - ⚡ Curiosidade: Sou movido a café e bons livros.
 
 ---
 
 ### 🛠️ O que entrego tecnicamente:
 
-* **Linguagens & Frameworks:** Java (8+), Spring Boot, Spring Security e Spring Data.
+* **Linguagens & Frameworks:** Java (8+), Spring Boot, Spring Security e Spring Data e Quarkus.
 * **Qualidade & Testes:** Domínio de JUnit 5 e Mockito (TDD). Aplicação rigorosa de Clean Code e SOLID.
 * **Dados & Infra:** SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB), Docker e RabbitMQ/Kafka.
 * **Arquitetura:** Design de APIs RESTful e fundamentos sólidos de Microserviços.
