@@ -21,9 +21,9 @@ Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistema
 
 ### 🛠️ O que entrego tecnicamente:
 
-* **Linguagens & Frameworks:** Java (8+), Spring Boot, Spring Security e Spring Data e Quarkus.
+* **Linguagens & Frameworks:** Java (8+), Spring Boot, Spring Security, Spring Data, Quarkus e Angular.
 * **Qualidade & Testes:** Domínio de JUnit 5 e Mockito (TDD). Aplicação rigorosa de Clean Code e SOLID.
-* **Dados & Infra:** SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB), Docker e RabbitMQ/Kafka.
+* **Dados & Infra:** SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB), Docker, Kubernetes e RabbitMQ/Kafka.
 * **Arquitetura:** Design de APIs RESTful e fundamentos sólidos de Microserviços.
 
 ---
