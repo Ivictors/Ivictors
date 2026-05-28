@@ -11,10 +11,9 @@
 
 Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistemas escaláveis e seguros. Minha abordagem de desenvolvimento é guiada por boas práticas de engenharia, garantindo que o código não apenas funcione, mas seja sustentável e testável.
 
-- 🔭 Atualmente trabalhando em **projetos autônomos**.
-- 🌱 Aprofundando conhecimentos em **Software Quality, Segurança e Performance**.
-- 👯 Colaborador em **projetos open-source**.
-- 💬 Pergunte-me sobre **Java, Spring Framework, Segurança e Performance**.
+- 🌱 Meus interesses são **Software Quality, Segurança e Performance**.
+- 👯 Colaborador em **Projetos Open-Source**.
+- 💬 Pergunte-me sobre **Java, Segurança e Performance**.
 - ⚡ Curiosidade: Sou movido a café e bons livros.
 
 ---
