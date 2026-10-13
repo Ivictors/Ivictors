@@ -43,6 +43,55 @@ Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistema
 
 ---
 
+## 🌟 Principais contribuições Open Source
+
+Atuo como contribuidor voluntário em projetos do ecossistema Quarkus e em
+projetos Java relacionados, com foco em experiência do desenvolvedor,
+ferramentas de CLI, sincronização Git, testes de integração, otimização de
+recursos e documentação técnica.
+
+### Quarkus Roq
+
+Gerador de sites estáticos e editor baseado em Quarkus.
+
+- [#1284](https://github.com/quarkiverse/quarkus-roq/pull/1284) — correção da
+  sincronização Git para respeitar o remote configurado pela branch, com teste
+  de regressão.
+- [#1286](https://github.com/quarkiverse/quarkus-roq/pull/1286) — correção de
+  race condition durante gravações assíncronas no editor.
+- [#947](https://github.com/quarkiverse/quarkus-roq/pull/947) — melhoria da UX
+  da barra de status de sincronização do Dev UI.
+- [#905](https://github.com/quarkiverse/quarkus-roq/pull/905) — inclusão do
+  alias `roq dev` para `roq start`.
+- [#904](https://github.com/quarkiverse/quarkus-roq/pull/904) — otimização de
+  imagens com WebP, redução de parâmetros externos e economia aproximada de
+  31,5 MB; um arquivo foi reduzido de 4.642 KB para 51 KB.
+
+### Documentação do Quarkus em português
+
+- [#293](https://github.com/quarkusio/pt.quarkus.io/pull/293) — tradução da
+  documentação de propriedades de configuração OIDC.
+- [#298](https://github.com/quarkusio/pt.quarkus.io/pull/298) — tradução da
+  documentação sobre Virtual Threads.
+
+### Floci — AWS local emulator
+
+Contribuições para testes, compatibilidade com Docker Desktop no Windows e
+confiabilidade da infraestrutura de testes.
+
+- [#5395](https://github.com/floci-io/floci/pull/5395) — centralização de
+  helpers para alocação de portas livres em testes, com migração de helpers
+  duplicados.
+- [#5400](https://github.com/floci-io/floci/pull/5400) — correção de validação
+  de conexões persistentes em endpoints Docker baseados em named pipes.
+- [#5547](https://github.com/floci-io/floci/pull/5547) — migração de 16
+  alocações de portas em 10 arquivos para os helpers compartilhados.
+
+> Os PRs #1284, #1286, #947, #905, #904, #293, #298 e #5395 foram merged.
+> Os PRs #5400 e #5547 estão em aberto e representam contribuições em revisão.
+
+---
+
 ### 📊 Github Status
 
 <p align="center">
