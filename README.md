@@ -87,8 +87,7 @@ confiabilidade da infraestrutura de testes.
 - [#5547](https://github.com/floci-io/floci/pull/5547) — migração de 16
   alocações de portas em 10 arquivos para os helpers compartilhados.
 
-> Os PRs #1284, #1286, #947, #905, #904, #293, #298 e #5395 foram merged.
-> Os PRs #5400 e #5547 estão em aberto e representam contribuições em revisão.
+> Os PRs #1284, #1286, #947, #905, #904, #293, #298, #5400, #5395 e #5547 foram merged.
 
 ---
 
