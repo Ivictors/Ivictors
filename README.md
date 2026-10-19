@@ -21,7 +21,7 @@ Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistema
 ### 🛠️ O que entrego tecnicamente:
 
 * **Linguagens & Frameworks:** Java (8+), Spring Boot, Spring Security, Spring Data, Quarkus e Angular.
-* **Qualidade & Testes:** Domínio de JUnit 5 e Mockito (TDD). Aplicação rigorosa de Clean Code e SOLID.
+* **Qualidade & Testes:** Domínio de JUnit 5 e Mockito (TDD), Lefthook e cobertura (Jacoco).
 * **Dados & Infra:** SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB), Docker, Kubernetes e RabbitMQ/Kafka.
 * **Arquitetura:** Design de APIs RESTful e fundamentos sólidos de Microsserviços.
 
@@ -86,9 +86,6 @@ confiabilidade da infraestrutura de testes.
   de conexões persistentes em endpoints Docker baseados em named pipes.
 - [#5547](https://github.com/floci-io/floci/pull/5547) — migração de 16
   alocações de portas em 10 arquivos para os helpers compartilhados.
-
-> Os PRs #1284, #1286, #947, #905, #904, #293, #298, #5400, #5395 e #5547 foram merged.
-
 ---
 
 ### 📊 Github Status
