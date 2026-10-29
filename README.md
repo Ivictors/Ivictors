@@ -91,6 +91,14 @@ confiabilidade da infraestrutura de testes.
   alocações de portas em 10 arquivos para os helpers compartilhados.
 ---
 
+### 📝 Últimos artigos do blog
+
+- [Como corrigi uma race condition no Quarkus Roq](https://ivictors.github.io/victor-dev-blog/pt/posts/como-corrigi-uma-race-condition-no-quarkus-roq/) — investigação de um problema intermitente no editor e da correção na sequência de gravação e reconexão.
+
+[Leia mais artigos no meu blog](https://ivictors.github.io/victor-dev-blog/pt/blog/).
+
+---
+
 ### 📊 Github Status
 
 <p align="center">
