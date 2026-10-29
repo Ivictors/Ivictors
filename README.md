@@ -14,7 +14,6 @@ Sou um desenvolvedor focado no **ecossistema Java** e na construção de sistema
 - 🌱 Meus interesses são **Software Quality, Segurança e Performance**.
 - 👯 Colaborador em **Projetos Open-Source**.
 - 💬 Pergunte-me sobre **Java, Segurança e Performance**.
-- ⚡ Curiosidade: Sou movido a café e bons livros.
 
 ---
 
