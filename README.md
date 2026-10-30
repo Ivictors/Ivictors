@@ -93,9 +93,12 @@ confiabilidade da infraestrutura de testes.
 
 ### 📝 Últimos artigos do blog
 
+- [Um travamento no Docker Desktop e uma correção no cliente do Floci](https://ivictors.github.io/victor-dev-blog/pt/posts/travamento-docker-named-pipe-floci/) — o diagnóstico de uma conexão por named pipe que podia bloquear a comunicação com o Docker no Windows.
+- [Migrar de monólito para microsserviços: comece pelas fronteiras](https://ivictors.github.io/victor-dev-blog/pt/posts/migracao-monolito-microsservicos/) — decisões de domínio, dados e operação para uma migração gradual.
+- [Kafka: o que partições, acks e idempotência realmente garantem](https://ivictors.github.io/victor-dev-blog/pt/posts/garantias-entrega-kafka/) — ordem, durabilidade e duplicatas ao longo do processamento de eventos.
 - [Como corrigi uma race condition no Quarkus Roq](https://ivictors.github.io/victor-dev-blog/pt/posts/como-corrigi-uma-race-condition-no-quarkus-roq/) — investigação de um problema intermitente no editor e da correção na sequência de gravação e reconexão.
 
-[Leia mais artigos no meu blog](https://ivictors.github.io/victor-dev-blog/pt/blog/).
+[Leia todos os artigos no blog](https://ivictors.github.io/victor-dev-blog/pt/blog/) · [Versões em inglês](https://ivictors.github.io/victor-dev-blog/en/blog/) · [Converse comigo no LinkedIn](https://www.linkedin.com/in/vi-marques/)
 
 ---
 
