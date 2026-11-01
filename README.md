@@ -77,6 +77,12 @@ Gerador de sites estáticos e editor baseado em Quarkus.
 - [#298](https://github.com/quarkusio/pt.quarkus.io/pull/298) — tradução da
   documentação sobre Virtual Threads.
 
+### Vintelli
+
+- [#167](https://github.com/omatheusmesmo/vintelli/pull/167) — documentação e
+  investigação da captura de teclas no Windows Terminal usando TamboUI Panama,
+  Java 25 e uma matriz de 19 combinações de teclas.
+
 ### Floci — AWS local emulator
 
 Contribuições para testes, compatibilidade com Docker Desktop no Windows e
